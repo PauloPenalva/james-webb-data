@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
+  "author": {
+    "name": "Maria Penalva e Paulo Penalva",
+    "email": "maria.eduardapenalva@gmail.com, paulo.penalva@gmail.com",
+    "url": "https://github.com/paulopenalva"
+  },
   "scripts": {
     "start": "node server.js"
   },
